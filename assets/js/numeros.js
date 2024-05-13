@@ -1,8 +1,8 @@
-for (let num = 0 ; num <= 10; num++){
-    if (num%2==0){
-        console.log(num, " es par")
+for (let numero = 0 ; numero <= 10; numero++){
+    if (numero%2==0){
+        console.log(numero, " es par")
     }else{
-        console.log(num," es impar")
+        console.log(numero," es impar")
     }
 }
 
